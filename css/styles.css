@@ -1,0 +1,26 @@
+body{
+  padding-top:40px;
+  font-family:"Courier New",monospace;
+  text-align:center;
+  background:#FFFAFA;
+}
+
+
+#target{
+  font-size:48px;
+  letter-spacing:3px;
+}
+
+.info{
+  color:#BBBBB;
+}
+
+.navi{
+  font-size:20px;
+  letter-spacing:1px;
+  font-weight:bold;
+}
+
+li {
+  list-style: none;
+}
